@@ -1,6 +1,11 @@
 from first.nums import plus
 
 def minus(a, b):
+  """
+  :param a: int
+  :param b: int
+  :return: result
+  """
   return a - b
 
 if __name__== "__main__":
